@@ -7,13 +7,13 @@ This repository serves as a dedicated space where I showcase the bots I've creat
 As you explore through this repository, you'll encounter various bots, each designed to solve different problems or automate specific tasks. From simple automation scripts to more complex bots, this repository reflects my passion for enhancing productivity and creating intelligent systems.
 
 ## What to Expect
-- **🚀** Innovation
+- **🚀 Innovation**
 Explore cutting-edge bots designed to automate tasks, process data, or enhance user experiences.
-- **⚙️** Automation
+- **⚙️Automation**
 Find bots that optimize repetitive tasks, enhance workflows, and bring automation to various domains.
-- **💡** Problem Solving
+- **💡Problem Solving**
 Dive into bots that solve real-world challenges, with an emphasis on efficiency, scalability, and simplicity.
-- **🔥** Continuous Learning
+- **🔥Continuous Learning**
 Discover bots that reflect my journey of continuous improvement and my drive to stay updated with the latest tools and technologies in automation.
 
 ## How to Navigate
