@@ -1,5 +1,5 @@
-# Welcome to My Bot Development Projects 🚀
-Greetings and a warm welcome to my bot development project repository! 🌟
+# Welcome to My Bot Development Projects 
+Greetings and a warm welcome to my bot development project repository! 
 
 This repository serves as a dedicated space where I showcase the bots I've created and will continue to create in the future. Each project represents my commitment to automating tasks, problem-solving, and my continuous learning in the field of bot development and automation.
 
